@@ -2,4 +2,8 @@ LLPP(1)
 ASK 1:
 DF
 fdg
+<<<<<<< HEAD
 TYU!!
+=======
+TYU!! BN
+>>>>>>> rev
