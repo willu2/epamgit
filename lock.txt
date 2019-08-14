@@ -2,8 +2,9 @@ LLPP(1)
 ASK 1:
 DF
 fdg
-<<<<<<< HEAD
-TYU!!
-=======
 TYU!! BN
->>>>>>> rev
+123
+fdgbhb
+12348988
+455
+
